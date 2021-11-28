@@ -1,0 +1,11 @@
+{
+    "require": {
+        "akim-bow/binance-request": "dev-main",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "autoload": {
+        "psr-4": {
+             "App\\": "app/"
+        }
+    }
+}
